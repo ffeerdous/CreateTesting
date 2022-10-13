@@ -1,1 +1,2 @@
 Hello
+This file is about me and my tests
